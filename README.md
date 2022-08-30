@@ -1,1 +1,1 @@
-# KNN-calssifiers
+# KNN-classifiers
